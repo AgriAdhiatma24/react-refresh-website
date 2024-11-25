@@ -9,4 +9,4 @@ This project is a fun way for me to brush up on my React and basic CSS skills. I
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](public/projectSS.png)
